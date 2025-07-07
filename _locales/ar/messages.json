@@ -1,0 +1,41 @@
+{
+    "extensionName": {
+       "message": "Youtube Premium"
+    },
+    "extensionNameBeta": {
+       "message": "Youtube Premium"
+    },
+    "legendSettings": {
+       "message": "إعدادات"
+    },
+    "linkChangelog": {
+       "message": "السجل"
+    },
+    "linkDonate": {
+       "message": "غير موجود حاليا"
+    },
+    "linkFAQ": {
+       "message": "التعليمات"
+    },
+    "linkHelp": {
+       "message": "المساعده"
+    },
+    "linkWebsite": {
+       "message": "الموقع"
+    },
+    "textDeveloper": {
+       "message": "by Ace"
+    },
+    "textLikesDisabled": {
+       "message": "Disabled by Owner"
+    },
+    "textTempUnavailable": {
+       "message": "غير متاح مؤقتا"
+    },
+    "textUpdate": {
+       "message": "تحديث"
+    },
+    "whatsnew": {
+       "message": "اخبار"
+    }
+ }
